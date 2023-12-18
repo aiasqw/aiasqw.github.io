@@ -20,7 +20,7 @@ button {
     padding: 0;
     outline: 0;
     border: none;
-    background: 0 0;
+    background:  #98aef7;
     cursor: pointer;
     touch-action: manipulation;
 }
